@@ -1,4 +1,4 @@
-# MERN GUIDE 🚀
+# MERN GUIDE ( BECOME A FULL STACK DEVELOPER )  🚀
 
 This repository is created for two main reasons:
 
