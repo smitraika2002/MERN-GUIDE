@@ -1,4 +1,4 @@
-📘 Event Loop in JavaScript
+# 📘 Event Loop in JavaScript
 📌 What is the Event Loop?
 
 The Event Loop is the mechanism that allows JavaScript to handle asynchronous tasks even though it is single-threaded.
