@@ -149,3 +149,11 @@ console.log("REACT STYLE:", title, userName3);
 // Destructuring = extract values easily
 
 // 👉 Used everywhere in React + APIs + backend
+
+// // React
+// function Component({ name, age }) {}
+
+// // Express
+// app.get("/user", (req, res) => {
+//   const { id } = req.params;
+// });
