@@ -1,14 +1,11 @@
 // 1️⃣ OBJECT DESTRUCTURING
 // ==========================================
-
 // 👉 Object = key-value pair
-
 const user = {
   name: "Smit",
   age: 22,
   country: "USA"
 };
-
 // ❌ OLD WAY (long)
 const userName = user.name;
 const userAge = user.age;
